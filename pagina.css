@@ -1,0 +1,73 @@
+body{
+   
+    background-image: url("chimi parrilla.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.titulo{
+    font-size: 100px;
+    color: rgb(112, 25, 76);
+    font-style: italic;
+    position: relative;
+    margin-left: 200px;
+    text-decoration-line:underline;
+    text-decoration-color:rgb(62, 12, 109);
+    align-items: center;
+    justify-content: center;
+}
+.logo{
+    display: flex;
+   
+    
+
+}
+.header{
+    display: flex;
+    position:absolute;
+}
+.opc{
+   
+    position: relative;
+    direction: rtl;
+    font-size: 40px;
+    color: royalblue;
+}
+.opc div{
+    display: none;
+    color: red;
+    
+}
+.opc div:target{
+    display: block;
+    
+}
+.fotos{
+    border: black solid 2px;
+}
+.link2{
+    
+    direction: rtl;
+    justify-content: center;
+    align-items: center;
+}
+.cortes{
+    direction: rtl;
+    font-size: 60px;
+    color: red;
+    text-decoration-line: underline;
+}
+.formu{
+    padding-top: 100px;
+    color: red;
+}
+.input{
+    width: 200px;
+    height: 100px;
+}
+.logofinal{
+    float: right;
+    color: red;
+    font-size: xx-large;
+}
