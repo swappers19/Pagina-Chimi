@@ -47,7 +47,7 @@ body{
     border: black solid 2px;
 }
 .link2{
-    
+    width: 500px
     direction: rtl;
     justify-content: center;
     align-items: center;
@@ -59,7 +59,8 @@ body{
     text-decoration-line: underline;
 }
 .formu{
-    padding-top: 100px;
+    height: 50px;
+    
     color:#32BF84;
 }
 .input{
@@ -74,8 +75,10 @@ body{
 .quienes{
     color: tomato;
     font-size: 30px;
+    height: 50px;
 }
 .quienes2{
     font-size: 60px;
     color: wheat;
+    height: 50px;
 }
