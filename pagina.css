@@ -8,12 +8,12 @@ body{
 
 .titulo{
     font-size: 100px;
-    color: rgb(112, 25, 76);
+    color: #048243;
     font-style: italic;
     position: relative;
     margin-left: 200px;
     text-decoration-line:underline;
-    text-decoration-color:rgb(62, 12, 109);
+    text-decoration-color:#CAFFFB;
     align-items: center;
     justify-content: center;
 }
@@ -36,7 +36,7 @@ body{
 }
 .opc div{
     display: none;
-    color: red;
+    color:#32BF84;
     
 }
 .opc div:target{
@@ -55,12 +55,12 @@ body{
 .cortes{
     direction: rtl;
     font-size: 60px;
-    color: red;
+    color: #32BF84;
     text-decoration-line: underline;
 }
 .formu{
     padding-top: 100px;
-    color: red;
+    color:#32BF84;
 }
 .input{
     width: 200px;
@@ -68,6 +68,14 @@ body{
 }
 .logofinal{
     float: right;
-    color: red;
+    color: #32BF84;
     font-size: xx-large;
+}
+.quienes{
+    color: tomato;
+    font-size: 30px;
+}
+.quienes2{
+    font-size: 60px;
+    color: wheat;
 }
